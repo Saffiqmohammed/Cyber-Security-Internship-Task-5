@@ -25,7 +25,7 @@ Sample Name: EICAR Test File
 MD5 Hash: 44d88612fea8a8f36de82e1278abb02f
 
 # Conclusion
-This task builds foundational knowledge in malware analysis and cybersecurity awareness.
+This task builds foundational knowledge in malware analysis and cybersecurity awareness..
 
 # Prepared by
 SAFFIQMOHAMMED S
